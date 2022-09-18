@@ -6,7 +6,7 @@
 		"16": "favicon-16x16.png",
 		"32": "favicon-32x32.png"
 	},
-	"description": "https://www.xn--2z1bw8k1pjz5ccumkb.kr/edc/crse/req/list.do 에서 인기순 정렬을 할수 있게 하느 확장 프로그램입니다.",
+	"description": "https://www.xn--2z1bw8k1pjz5ccumkb.kr/edc/crse/req/list.do 에서 인기순 정렬을 할수 있게 하는 확장 프로그램입니다.",
 	"content_scripts": [
 		{
 			"matches": [
